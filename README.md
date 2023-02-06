@@ -1,6 +1,6 @@
 # Lyrics Analysis Before and After the Covid-19 Pandemic
 ## 1.Introduction and Background
-### Many people have done some research on the impact of COVID-19 on the economy, education and medication, but we are more interested in culture, especially music. The epidemic has affected everyone in the world in one way or another and we were curious to see if this situation had an impact on the artists who write the songs. We decided to use the lyrics of popular songs as a study to see if there were any changes in the lyrics of songs before and after the epidemic, especially before and after 2020 when COVID-19 widely spread in most countries around the world.
+Many people have done some research on the impact of COVID-19 on the economy, education and medication, but we are more interested in culture, especially music. The epidemic has affected everyone in the world in one way or another and we were curious to see if this situation had an impact on the artists who write the songs. We decided to use the lyrics of popular songs as a study to see if there were any changes in the lyrics of songs before and after the epidemic, especially before and after 2020 when COVID-19 widely spread in most countries around the world.
 
 ## 2.Research Question
 ### Does COVID-19 have any effect on lyrics? If it does, it is good or bad?
